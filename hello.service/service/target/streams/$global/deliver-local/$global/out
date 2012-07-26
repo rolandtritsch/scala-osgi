@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m:: delivering :: default#my-scala-osgi-hello-service_2.9.1;0.1 :: 0.1 :: release :: Sat Jun 02 18:42:02 IST 2012[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Sat Jun 02 18:42:02 IST 2012 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /Users/rtritsch/Development/Public/osgi.scala/service/target/scala-2.9.1/ivy-0.1.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (133ms)[0m

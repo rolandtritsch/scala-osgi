@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
+[0m[[0minfo[0m] [0m	published my-scala-osgi-hello-service_2.9.1 to /Users/rtritsch/.ivy2/local/default/my-scala-osgi-hello-service_2.9.1/0.1/poms/my-scala-osgi-hello-service_2.9.1.pom[0m
+[0m[[0minfo[0m] [0m	published my-scala-osgi-hello-service_2.9.1 to /Users/rtritsch/.ivy2/local/default/my-scala-osgi-hello-service_2.9.1/0.1/jars/my-scala-osgi-hello-service_2.9.1.jar[0m
+[0m[[0minfo[0m] [0m	published my-scala-osgi-hello-service_2.9.1 to /Users/rtritsch/.ivy2/local/default/my-scala-osgi-hello-service_2.9.1/0.1/srcs/my-scala-osgi-hello-service_2.9.1-sources.jar[0m
+[0m[[0minfo[0m] [0m	published my-scala-osgi-hello-service_2.9.1 to /Users/rtritsch/.ivy2/local/default/my-scala-osgi-hello-service_2.9.1/0.1/docs/my-scala-osgi-hello-service_2.9.1-javadoc.jar[0m
+[0m[[0minfo[0m] [0m	published ivy to /Users/rtritsch/.ivy2/local/default/my-scala-osgi-hello-service_2.9.1/0.1/ivys/ivy.xml[0m

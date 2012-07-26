@@ -1,0 +1,6 @@
+compile
+reload
+compile
+osgi-bundle
+package
+osgi-bundle

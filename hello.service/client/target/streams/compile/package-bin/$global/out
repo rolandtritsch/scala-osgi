@@ -1,0 +1,29 @@
+[0m[[0minfo[0m] [0mPackaging /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/my-scala-osgi-hello-client_2.9.1-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello/client/HelloClient$$anonfun$stop$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello/client/HelloClient$$anonfun$stop$2.class[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello/client/HelloClient$$anonfun$start$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello/client/HelloClient$$anonfun$start$2.class[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/classes/org/tritsch/scala/osgi[0m
+[0m[[0mdebug[0m] [0m	org[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/classes/org[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello/client[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello/client[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/classes/org/tritsch/scala[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello/client/HelloClient$$anonfun$start$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello/client/HelloClient$$anonfun$start$3.class[0m
+[0m[[0mdebug[0m] [0m	org/tritsch[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/classes/org/tritsch[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello/client/HelloClient$$anonfun$stop$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello/client/HelloClient$$anonfun$stop$1.class[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello/client/HelloClient.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello/client/HelloClient.class[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello/client/HelloClient$$anonfun$start$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello/client/HelloClient$$anonfun$start$4.class[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello/client/HelloClient$$anonfun$start$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/client/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello/client/HelloClient$$anonfun$start$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

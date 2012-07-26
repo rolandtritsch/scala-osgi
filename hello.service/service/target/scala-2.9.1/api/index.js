@@ -1,0 +1,1 @@
+Index.PACKAGES = {"org.tritsch.scala.osgi" : [], "org.tritsch.scala.osgi.hello.service" : [{"trait" : "org\/tritsch\/scala\/osgi\/hello\/service\/HelloService.html", "name" : "org.tritsch.scala.osgi.hello.service.HelloService"}], "org.tritsch" : [], "org.tritsch.scala" : [], "org" : [], "org.tritsch.scala.osgi.hello" : []};

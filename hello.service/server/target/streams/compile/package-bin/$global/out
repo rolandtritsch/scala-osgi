@@ -1,0 +1,27 @@
+[0m[[0minfo[0m] [0mPackaging /Users/rtritsch/Development/Public/osgi.scala/server/target/scala-2.9.1/my-scala-osgi-hello-server_2.9.1-0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello/server/HelloServer$$anonfun$greetMe$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/server/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello/server/HelloServer$$anonfun$greetMe$1.class[0m
+[0m[[0mdebug[0m] [0m	org/tritsch[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/server/target/scala-2.9.1/classes/org/tritsch[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/server/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/server/target/scala-2.9.1/classes/org/tritsch/scala/osgi[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello/server/HelloServer$$anonfun$stop$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/server/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello/server/HelloServer$$anonfun$stop$1.class[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello/server/HelloServer$$anonfun$start$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/server/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello/server/HelloServer$$anonfun$start$1.class[0m
+[0m[[0mdebug[0m] [0m	log4j.properties~[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/server/target/scala-2.9.1/classes/log4j.properties~[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello/server[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/server/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello/server[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala/osgi/hello/server/HelloServer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/server/target/scala-2.9.1/classes/org/tritsch/scala/osgi/hello/server/HelloServer.class[0m
+[0m[[0mdebug[0m] [0m	org[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/server/target/scala-2.9.1/classes/org[0m
+[0m[[0mdebug[0m] [0m	org/tritsch/scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/server/target/scala-2.9.1/classes/org/tritsch/scala[0m
+[0m[[0mdebug[0m] [0m	log4j.properties[0m
+[0m[[0mdebug[0m] [0m	  /Users/rtritsch/Development/Public/osgi.scala/server/target/scala-2.9.1/classes/log4j.properties[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

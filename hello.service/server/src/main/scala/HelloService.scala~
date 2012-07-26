@@ -1,0 +1,26 @@
+package org.tritsch.scala.osgi.hello
+
+import org.tritsch.scala.osgi.hello.HelloService
+import org.osgi.framework.{BundleActivator, BundleContext, ServiceRegistration}
+
+import java.util.Properties
+
+import com.weiglewilczek.slf4s.Logging
+
+class HelloServer extends HelloService, BundleActivator {  
+  override public start(ctx: BundleContext): Unit = {
+    logger.debug("Starting server ...")
+    assert(ctx != Nil, "Context needs to be set")
+    registration = ctx.registerService(HelloService.getClass.getName, this, new Properties())
+  }
+
+  override public stop(ctx: BundleContext): Unit = {
+    logger.debug("Stopping server ...")
+    assert(ctx != Nil, "Context needs to be set")
+  }
+
+  overwrite public greetMe(name: String): String = {
+    assert(!name.isE
+    "Hello " + 
+  }
+}

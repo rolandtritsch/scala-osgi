@@ -1,0 +1,15 @@
+name := "My Scala OSGi Hello World"
+
+version := "0.1"
+
+scalaVersion := "2.9.1"
+
+libraryDependencies += "com.weiglewilczek.slf4s" %% "slf4s" % "1.0.7"
+
+libraryDependencies += "org.slf4j" % "slf4j-simple" % "1.6.4"
+
+libraryDependencies += "org.apache.felix" % "org.osgi.core" % "1.4.0"
+
+seq(osgiSettings: _*)
+
+OsgiKeys.bundleActivator := Some("org.tritsch.scala.osgi.HelloWorld")

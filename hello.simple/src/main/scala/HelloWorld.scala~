@@ -1,0 +1,11 @@
+package org.tritsch.scala.osgi
+
+import org.osgi.framework.BundleActivator
+import org.osgi.framework.BundleContext
+
+class HelloWorld extends BundleActivator {
+  def start(context: BundleContext) {
+      System.out.println("Hello Scala from OSGi!");
+  }
+  def stop(context: BundleContext){}
+}

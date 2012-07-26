@@ -1,0 +1,27 @@
+package org.tritsch.scala.osgi.hello.client
+
+import org.osgi.framework.{BundleActivator, BundleContext, ServiceReference}
+import org.
+
+import com.weiglewilczek.slf4s.Logging
+
+class HelloClient extends BundleActivator with Logging {
+  override def start(ctx: BundleContext): Unit = {
+    logger.debug("Starting client ...")
+    assert(ctx != Nil, "Context needs to be set")
+
+    var hello: HelloService = Nil
+    val hsr = new ServiceReference
+    while(hello == Nil) {
+      hello = ctx.getService()
+    }
+
+  }
+
+  override def stop(ctx: BundleContext): Unit = {
+    logger.debug("Stopping client ...")
+    assert(ctx != Nil, "Context needs to be set")
+  }
+
+
+}
